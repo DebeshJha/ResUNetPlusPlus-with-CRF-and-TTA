@@ -10,10 +10,10 @@ Image Segmentation </a> <br/>
 ## Datasets:
 The following datasets are used in this experiment:
 <ol>
-  <li>Kvasir-SEG</li>
-  <li>CVC-ClinicDB</li>
-  <li>CVC-ColonDB</li>
-  <li> ETIS-Larib polyp DB</li>
+  <li><a href="https://datasets.simula.no/kvasir-seg/">Kvasir-SEG</a></li>
+  <li><a href="https://polyp.grand-challenge.org/CVCClinicDB/">CVC-ClinicDB</a></li>
+  <li><a href="http://mv.cvc.uab.es/projects/colon-qa/cvccolondb">CVC-ColonDB</a></li>
+  <li><a href="https://polyp.grand-challenge.org/EtisLarib/">ETIS-Larib polyp DB</a></li>
  </ol>
 
 ## Hyperparameters:
