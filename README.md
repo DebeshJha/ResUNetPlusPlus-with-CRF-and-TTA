@@ -3,7 +3,7 @@
 The ResUNet++ architecture is based on the Deep Residual U-Net (ResUNet), which is an architecture that uses the strength of deep residual learning and U-Net. The proposed ResUNet++ architecture takes advantage of the residual blocks, the squeeze and excitation block, ASPP, and the attention block. <br/>
 
 ## Architecture
-<img src="img/DoubleU-Net.png">
+<img src="img/ResUNet++.png">
 
 ## Datasets:
 The following datasets are used in this experiment:
