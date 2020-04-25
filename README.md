@@ -29,7 +29,7 @@ The following datasets are used in this experiment:
 
 
 ## Results
-Qualitative result comparison of the proposed models with UNet, ResUNet, and ResUNet++. The image labels are at the top. The figure shows the example of polyps that are usually missed-out during colonoscopy examination. <br/>
+Qualitative result comparison of the proposed models with UNet, ResUNet, and ResUNet++.<br/>
 <img src="img/111.png">
 
 
