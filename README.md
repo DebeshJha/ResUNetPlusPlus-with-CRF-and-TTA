@@ -24,8 +24,8 @@ The following datasets are used in this experiment:
   <tr> <td> Dataset Name</td> <td>Loss</td> <td>Optimizer</td> <td>Learning Rate</td>  </tr>
   <tr> <td>Kvasir-SEG</td> <td>Binary crossentropy</td> <td>Nadam</td> <td>1e-5</td> </tr>
   <tr> <td>CVC-ClinicDB</td> <td>Binary crossentropy</td> <td>Nadam</td> <td>1e-5</td> </tr>
-  <tr> <td>CVC-ColonDB</td> <td>Dice loss</td> <td>Adam</td> <td>1e-4</td> </tr>
-  <tr> <td>ETIS-Larib polyp DB</td><td>Dice loss</td> <td>Nadam</td> <td>1e-4</td> </tr>
+  <tr> <td>CVC-ColonDB</td> <td>Dice loss</td> <td>Adam</td> <td>1e-5</td> </tr>
+  <tr> <td>ETIS-Larib polyp DB</td><td>Dice loss</td> <td>Nadam</td> <td>1e-5</td> </tr>
  </table>
  
 
