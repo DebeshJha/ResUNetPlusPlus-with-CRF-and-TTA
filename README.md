@@ -8,10 +8,10 @@ The ResUNet++ architecture is based on the Deep Residual U-Net (ResUNet), which 
 ## Datasets:
 The following datasets are used in this experiment:
 <ol>
-  <li>MICCAI 2015 Segmentation challenge(CVC-ClinicDB for training and ETIS-Larib for Testing)</li>
+  <li>Kvasir-SEG</li>
   <li>CVC-ClinicDB</li>
-  <li>Lesion Boundary segmentation challenge/li>
-  <li> 2018 Data Science Bowl challenge</li>
+  <li>CVC-ColonDB/li>
+  <li> ETIS-Larib polyp DB</li>
  </ol>
 
 ## Hyperparameters:
@@ -22,16 +22,16 @@ The following datasets are used in this experiment:
 </ol>
 <table>
   <tr> <td> Dataset Name</td> <td>Loss</td> <td>Optimizer</td> <td>Learning Rate</td>  </tr>
-  <tr> <td>MICCAI 2015 Challenge Dataset</td> <td>Binary crossentropy</td> <td>Nadam</td> <td>1e-5</td> </tr>
+  <tr> <td>Kvasir-SEG</td> <td>Binary crossentropy</td> <td>Nadam</td> <td>1e-5</td> </tr>
   <tr> <td>CVC-ClinicDB</td> <td>Binary crossentropy</td> <td>Nadam</td> <td>1e-5</td> </tr>
-  <tr> <td>Lesion Boundary segmentation challenge</td> <td>Dice loss</td> <td>Adam</td> <td>1e-4</td> </tr>
-  <tr> <td>2018 Data Science Bowl challenge</td><td>Dice loss</td> <td>Nadam</td> <td>1e-4</td> </tr>
+  <tr> <td>CVC-ColonDB</td> <td>Dice loss</td> <td>Adam</td> <td>1e-4</td> </tr>
+  <tr> <td>ETIS-Larib polyp DB</td><td>Dice loss</td> <td>Nadam</td> <td>1e-4</td> </tr>
  </table>
  
 
 
 ## Results
 The model is trained on CVC-ClinicDB and tested on the ETIS-Larib polyps dataset. <br/>
-<img src="img/100.png">
+<img src="img/111.png">
 <img src="img/5.png">
 <img src="img/6.png">
