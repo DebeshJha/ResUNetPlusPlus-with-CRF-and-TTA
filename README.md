@@ -31,5 +31,5 @@ The following datasets are used in this experiment:
 
 
 ## Results
-The model is trained on CVC-ClinicDB and tested on the ETIS-Larib polyps dataset. <br/>
+Qualitative result comparison of the proposed models with UNet, ResUNet, and ResUNet++. The image labels are at the top. The figure shows the example of polyps that are usually missed-out during colonoscopy examination. <br/>
 <img src="img/111.png">
