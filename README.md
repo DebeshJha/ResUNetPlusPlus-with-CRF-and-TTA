@@ -20,9 +20,8 @@ The following datasets are used in this experiment:
   <li>Batch size = 16</li> 
   <li>Number of epoch = 300</li>
   <li>Loss = Binary crossentropy</li>
-  <li>Number of epoch = 300</li>
   <li>Optimizer = Nadam</li>
-  <li>Number of epoch = 300</li>
+  <li>Learning Rate = 1e-5 (Adjusted for some experiments)</li>
 </ol>
  
 
