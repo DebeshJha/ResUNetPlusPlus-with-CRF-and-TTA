@@ -19,14 +19,11 @@ The following datasets are used in this experiment:
  <ol>
   <li>Batch size = 16</li> 
   <li>Number of epoch = 300</li>
+  <li>Loss = Binary crossentropy</li>
+  <li>Number of epoch = 300</li>
+  <li>Optimizer = Nadam</li>
+  <li>Number of epoch = 300</li>
 </ol>
-<table>
-  <tr> <td> Dataset Name</td> <td>Loss</td> <td>Optimizer</td> <td>Learning Rate</td>  </tr>
-  <tr> <td>Kvasir-SEG</td> <td>Binary crossentropy</td> <td>Nadam</td> <td>1e-5</td> </tr>
-  <tr> <td>CVC-ClinicDB</td> <td>Binary crossentropy</td> <td>Nadam</td> <td>1e-5</td> </tr>
-  <tr> <td>CVC-ColonDB</td> <td>Dice loss</td> <td>Adam</td> <td>1e-5</td> </tr>
-  <tr> <td>ETIS-Larib polyp DB</td><td>Dice loss</td> <td>Nadam</td> <td>1e-5</td> </tr>
- </table>
  
 
 
