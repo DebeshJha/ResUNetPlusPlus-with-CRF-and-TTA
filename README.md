@@ -33,5 +33,3 @@ The following datasets are used in this experiment:
 ## Results
 The model is trained on CVC-ClinicDB and tested on the ETIS-Larib polyps dataset. <br/>
 <img src="img/111.png">
-<img src="img/5.png">
-<img src="img/6.png">
