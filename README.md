@@ -32,4 +32,11 @@ The following datasets are used in this experiment:
 Qualitative result comparison of the proposed models with UNet, ResUNet, and ResUNet++.<br/>
 <img src="img/111.png">
 
+Please cite our work if you find it useful
 
+@article{fan2020pra,
+title={ResUNet++-with-Conditional-Random-Field-and-Test-Time-Augmentation},
+author={Debesh Jha, Pia H. Smedsrud, Michael A. Riegler, Dag Johansen, Thomas de Lange, Pal Halvorsen, Havard D. Johansen},
+journal={Journal of Biomedical and Health informatics (Submitted)},
+year={2020}
+}
