@@ -40,7 +40,7 @@ Qualitative result comparison of the proposed models with UNet, ResUNet, and Res
 This work is under revision
 
 ## Citation
-Please cite our paper if you find the work useful: 
+Please cite our previous paper if you find the work useful: 
 <pre>
 @INPROCEEDINGS{8959021,
   author={D. {Jha} and P. H. {Smedsrud} and M. A. {Riegler} and D. {Johansen} and T. D. {Lange} and P. {Halvorsen} and H. {D. Johansen}},
