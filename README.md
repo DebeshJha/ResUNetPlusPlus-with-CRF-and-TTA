@@ -1,7 +1,9 @@
 # ResUNet++-with-Conditional-Random-Field-and-Test-Time-Augmentation
-# ResUNet++
+This is the extension of our previous version of the [ResUNet++](https://arxiv.org/pdf/1911.07067.pdf). 
+
+## ResUNet++
 The ResUNet++ architecture is based on the Deep Residual U-Net (ResUNet), which is an architecture that uses the strength of deep residual learning and U-Net. The proposed ResUNet++ architecture takes advantage of the residual blocks, the squeeze and excitation block, ASPP, and the attention block. <br/> <br/>
-<a href="https://arxiv.org/pdf/1911.07067.pdf"> ResUNet++: An Advanced Architecture for Medical
+<a href="https://arxiv.org/pdf/1911.07067.pdf"> ResUNet++: An Advanced Architcture for Medical
 Image Segmentation </a> <br/>
 
 ## Architecture
@@ -14,6 +16,8 @@ The following datasets are used in this experiment:
   <li><a href="https://polyp.grand-challenge.org/CVCClinicDB/">CVC-ClinicDB</a></li>
   <li><a href="http://mv.cvc.uab.es/projects/colon-qa/cvccolondb">CVC-ColonDB</a></li>
   <li><a href="https://polyp.grand-challenge.org/EtisLarib/">ETIS-Larib polyp DB</a></li>
+  <li><a href="https://polyp.grand-challenge.org/AsuMayo/">ASU-Mayo Clinic Colonoscopy Video (c) Database</a></li>
+  <li><a href="https://giana.grand-challenge.org/PolypDetection/">CVC-VideoClinicDB</a></li>
  </ol>
 
 ## Hyperparameters:
@@ -33,6 +37,18 @@ Qualitative result comparison of the proposed models with UNet, ResUNet, and Res
 <img src="img/111.png">
 
 ## Remark
-Our work is under revision. 
+This work is under revision
+
+## Citation
+Please cite our paper if you find the work useful: 
+<pre>
+@INPROCEEDINGS{8959021,
+  author={D. {Jha} and P. H. {Smedsrud} and M. A. {Riegler} and D. {Johansen} and T. D. {Lange} and P. {Halvorsen} and H. {D. Johansen}},
+  booktitle={2019 IEEE International Symposium on Multimedia (ISM)}, 
+  title={ResUNet++: An Advanced Architecture for Medical Image Segmentation}, 
+  year={2019},
+  pages={225-255}}
+</pre>
+
 
 
