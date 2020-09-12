@@ -33,8 +33,14 @@ The following datasets are used in this experiment:
 
 
 ## Results
-Qualitative result comparison of the proposed models with UNet, ResUNet, and ResUNet++.<br/>
-<img src="img/111.png">
+Qualitative result comparison of the proposed models with UNet, ResUNet, and ResUNet++ on Kvasir-SEG dataset<br/>
+<img src="img/same.png">
+
+Qualitative result comparison of the model trained on CVC-612 and tested on Kvasir-SEG <br/>
+<img src="img/cross.png">
+
+Qualitative result comparison of the model trained on CVC-612 and tested on Kvasir-SEG <br/>
+<img src="img/bad.png">
 
 ## Remark
 This work is under revision
