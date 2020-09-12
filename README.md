@@ -37,10 +37,14 @@ Qualitative result comparison of the proposed models with UNet, ResUNet, and Res
 <img src="img/same.png">
 
 Qualitative result comparison of the model trained on CVC-612 and tested on Kvasir-SEG <br/>
-<img src="img/cross.png">
+<img src="img/cs.png">
+
 
 Qualitative result comparison of the model trained on CVC-612 and tested on Kvasir-SEG <br/>
 <img src="img/bad.png">
+
+ROC curve of the model trained on Kvasir-SEG dataset
+<img src="img/roc.png">
 
 ## Remark
 This work is under revision
