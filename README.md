@@ -46,9 +46,6 @@ Qualitative result comparison of the model trained on CVC-612 and tested on Kvas
 ROC curve of the model trained on Kvasir-SEG dataset
 <img src="img/roc.png">
 
-## Remark
-This work is under revision
-
 ## Citation
 Please cite our previous paper if you find the work useful: 
 <pre>
