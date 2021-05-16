@@ -1,5 +1,5 @@
 # ResUNet++-with-Conditional-Random-Field-and-Test-Time-Augmentation
-This is the extension of our previous version of the [ResUNet++](https://arxiv.org/pdf/1911.07067.pdf). In this paper, we describe how the ResUNet++ architecture can be extended by applying Conditional Random Field (CRF) and Test-Time Augmentation (TTA) to further improve its prediction performance on segmented polyps.
+This is the extension of our previous version of the [ResUNet++](https://arxiv.org/pdf/1911.07067.pdf). In this paper, we describe how the ResUNet++ architecture can be extended by applying Conditional Random Field (CRF) and Test-Time Augmentation (TTA) to further improve its prediction performance on segmented polyps. The GitHub code for the ResUNet++ can be found at [here.](https://github.com/DebeshJha/ResUNetPlusPlus)
 
 ## ResUNet++
 The ResUNet++ architecture is based on the Deep Residual U-Net (ResUNet), which is an architecture that uses the strength of deep residual learning and U-Net. The proposed ResUNet++ architecture takes advantage of the residual blocks, the squeeze and excitation block, ASPP, and the attention block. <br/> <br/>
