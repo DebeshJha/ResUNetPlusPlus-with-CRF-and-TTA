@@ -47,7 +47,8 @@ ROC curve of the model trained on Kvasir-SEG dataset
 <img src="img/roc.png">
 
 ## Citation
-Please cite our previous paper if you find the work useful: 
+Please cite our work if you find it useful. 
+
 <pre>
 @INPROCEEDINGS{8959021,
   author={D. {Jha} and P. H. {Smedsrud} and M. A. {Riegler} and D. {Johansen} and T. D. {Lange} and P. {Halvorsen} and H. {D. Johansen}},
@@ -56,6 +57,16 @@ Please cite our previous paper if you find the work useful:
   year={2019},
   pages={225-255}}
 </pre>
+
+<pre>
+@article{jha2021comprehensive,
+  title={A comprehensive study on colorectal polyp segmentation with ResUNet++, conditional random field and test-time augmentation},
+  author={Jha, Debesh and Smedsrud, Pia Helen and Johansen, Dag and de Lange, Thomas and Johansen, Havard and Halvorsen, Pal and Riegler, Michael},
+  journal={IEEE journal of biomedical and health informatics},
+  year={2021},
+  publisher={IEEE}
+  </pre>
+}
 
 ## Contact
 Please contact debesh@simula.no for any further questions. 
