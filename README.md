@@ -7,7 +7,9 @@ The ResUNet++ architecture is based on the Deep Residual U-Net (ResUNet), which 
 Image Segmentation </a> <br/>
 
 ## Architecture
+<p align="center">
 <img src="img/ResUNet++.png">
+</p>
 
 ## Datasets:
 The following datasets are used in this experiment:
@@ -34,17 +36,25 @@ The following datasets are used in this experiment:
 
 ## Results
 Qualitative result comparison of the proposed models with UNet, ResUNet, and ResUNet++ on Kvasir-SEG dataset<br/>
+<p align="center">
 <img src="img/same.png">
+</p>
 
 Qualitative result comparison of the model trained on CVC-612 and tested on Kvasir-SEG <br/>
+<p align="center">
 <img src="img/cs.png">
+</p>
 
 
 Qualitative result comparison of the model trained on CVC-612 and tested on Kvasir-SEG <br/>
+<p align="center">
 <img src="img/bad.png">
+</p>
 
 ROC curve of the model trained on Kvasir-SEG dataset
+<p align="center">
 <img src="img/roc.png">
+</p>
 
 ## Citation
 Please cite our work if you find it useful. 
@@ -62,7 +72,7 @@ Please cite our work if you find it useful.
 @article{jha2021comprehensive,
   title={A comprehensive study on colorectal polyp segmentation with ResUNet++, conditional random field and test-time augmentation},
   author={Jha, Debesh and Smedsrud, Pia Helen and Johansen, Dag and de Lange, Thomas and Johansen, Havard and Halvorsen, Pal and Riegler, Michael},
-  journal={IEEE journal of biomedical and health informatics},
+  journal={IEEE Journal of Biomedical and Health Informatics},
   year={2021},
   publisher={IEEE}
   </pre>
