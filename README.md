@@ -79,5 +79,5 @@ Please cite our work if you find it useful.
 }
 
 ## Contact
-Please contact debesh@simula.no for any further questions. 
+Please contact debeshjha1@gmail.com for any further questions. 
 
